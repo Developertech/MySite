@@ -1,0 +1,63 @@
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.pdb
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.xml
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.csprojResolveAssemblyReference.cache
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.dll
+C:\Development\Avalon.Template\BlackShield\Development\1.0.0.0\jgonzalez\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.dll.config
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\MySite\Themes\BlackShieldMVC5\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.dll.config
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\BlackShield.MVC.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Razor.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Helpers.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Mvc.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\obj\Debug\BlackShield.MVC.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Optimization.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\WebGrease.dll
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DevTec\Documents\Visual Studio 2013\Projects\BlackShield.MVC\BlackShield.MVC\bin\System.Web.Optimization.xml
