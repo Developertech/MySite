@@ -1,4 +1,4 @@
-MySite
+Powered On Dev.Net - By S.Foux
 ======
 
-Adding site to GibHub
+Updating site to GibHub
